@@ -2245,7 +2245,7 @@ section {
 --------------------------------------------------------------*/
 #footer {
   background: #0b212d;
-  padding: 0 0 30px 0;
+  padding: 0 0 10px 0;
   color: #fff;
   font-size: 14px;
 }
@@ -2416,4 +2416,12 @@ section {
 
 #footer .credits a {
   color: #a2cce3;
+}
+
+#footer .internal{
+  padding: 0;
+}
+
+#footer .internal a{
+  color: #081525;
 }
